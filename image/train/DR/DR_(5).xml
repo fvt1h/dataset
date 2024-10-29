@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DR</folder>
+	<filename>DR_(5).jpg</filename>
+	<path>D:\TA\dataset\image\train\DR\DR_(5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>diabetic_retinopatic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>96</ymin>
+			<xmax>200</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>
