@@ -1,1 +1,1 @@
-kembali menambahkan folder train dan val
+setelah menghapus kembali menambahkan folder train dan val
