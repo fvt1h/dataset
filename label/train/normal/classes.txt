@@ -1,2 +1,3 @@
 diabetic_retinopatic
 normal
+glaucoma
