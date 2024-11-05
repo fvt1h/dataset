@@ -1,4 +1,4 @@
-path: dataset_dir
+path: /content/dataset
 
 train: train
 val: validation
