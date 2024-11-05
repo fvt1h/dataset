@@ -1,7 +1,7 @@
 path: dataset_dir
 
 train: train
-val: val
+val: validation
 test: test
 
 nc: 3
