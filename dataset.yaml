@@ -1,0 +1,9 @@
+path: D:\TA\data\
+
+train: train
+val: val
+test: test
+
+nc: 3
+
+names: ["diabetic_retinopatic", "normal", "glaucoma"]
