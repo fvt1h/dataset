@@ -1,6 +1,6 @@
-train: path/train
-val: path/validation
-test: path/test
+train: /train
+val: /validation
+test: /test
 
 nc: 3
 
