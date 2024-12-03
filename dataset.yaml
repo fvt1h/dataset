@@ -1,8 +1,6 @@
-path: path/dataset
-
-train: train
-val: validation
-test: test
+train: path/train
+val: path/validation
+test: path/test
 
 nc: 3
 
