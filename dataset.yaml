@@ -1,6 +1,6 @@
-train: /train
-val: /validation
-test: /test
+train: /kaggle/input/dataset/train
+val: /kaggle/input/dataset/validation
+test: /kaggle/input/dataset/test
 
 nc: 3
 
